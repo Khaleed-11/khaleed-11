@@ -16,11 +16,11 @@ Hey! I'm Khaleed, a passionate developer who loves building cool stuff and solvi
 
 Let’s get social! I’d love to connect and collaborate.
 
-- 📫 **Email:** khaleed@example.com  
+- 📫 **Email:** khaleedjet1@gmail.com  
 - 💼 **LinkedIn:** [linkedin.com/in/khaleed](https://linkedin.com/in/khaleed)  
-- 🐦 **Twitter/X:** [@khaleed_dev](https://twitter.com/khaleed_dev)  
+- 🐦 **Twitter/X:** [@khaleed_dev](https://twitter.com/lfc_iamkhaleed)  
 - 🌍 **Portfolio:** [khaleed.dev](https://khaleed.dev)  
-- 💬 **Discord:** khaleed#1234
+- 💬 **Discord:** khaleed0907
 
 ---
 
